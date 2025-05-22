@@ -8,7 +8,7 @@ This project presents a comprehensive analysis of road accident casualties acros
 ## Key Performance Indicators
 1. Total casualties - This metric provides a quick glance at the overall severity of road accidents.
 2. Casualties by Accident Severity and Vehicle Type - Identifies the most dangerous vehicle types and the impact of severity levels on casualty count.
-3. Casualties by Vehicle Type - Bar charts showing casualties split by different vehicle types. Cars are observed as the most casualty-prone vehicle, indicating a need for stricter driver behavior monitoring and enforcement.
+3. Casualties by Vehicle Type - It is showing casualties split by different vehicle types. Cars are observed as the most casualty-prone vehicle, indicating a need for stricter driver behavior monitoring and enforcement.
 4. Monthly Trend (Line Chart) - Line chart comparing month-wise casualties for 2021 and 2022.
 5. Casualties by Road Type (Bar Chart) -  Identifies roads with higher risk and helps urban planners focus on safer infrastructure design.
 6. Casualties by Road Surface (Treemap) - Treemap offers a compact way to highlight road conditions that lead to more casualties.
