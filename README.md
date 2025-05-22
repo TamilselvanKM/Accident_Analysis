@@ -34,7 +34,7 @@ Location: Helps zoom into specific cities or regions for focused insights.
 
 3. Focus infrastructure investments on high-casualty road types.
 
-4. Conduct regular maintenance to reduce accidents on road surfaces.
+4. Conduct regular maintenance to reduce accidents on uneven road surfaces.
 
 5. Enhance enforcement in regions and times with high accident frequency.
 
